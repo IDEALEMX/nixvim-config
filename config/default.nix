@@ -20,7 +20,7 @@
 
         # haskell
 	    hls.enable = true;
-        hls.installGhc = true;
+      hls.installGhc = true;
 
 	    # nix
 	    nixd.enable = true;
